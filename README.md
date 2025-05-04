@@ -4,7 +4,7 @@ Example prepared by: <span style="color:blue"> Christopher McGann and Pedro Ardu
 
 ----
 
-[[Examples| Return to OpenSees Examples Page]]
+# [[Examples| Return to OpenSees Examples Page]]
 
 This article describes the OpenSees implementation of a site response analysis a soil deposit located above an elastic half-space using total stress analysis.  A single soil column is modeled in two-dimensions and is subject to an earthquake ground motion in a manner which accounts for the finite rigidity of the underlying medium.
 
